@@ -1,0 +1,95 @@
+
+// //Файл обнуляющих стилей
+// //импорт нашего стиля обнулений
+// @import "nullstyle.scss";
+// .main {
+//     padding: 100px;
+//     display: flex;
+//     flex-direction: column;
+//     align-items: center;
+
+// }
+.main {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(178, 219, 223);
+    margin: 0 auto;
+    width: 1000px;
+    height: 500px;
+    border: 5px solid black;
+    
+}
+// }
+// .circle1, .circle2, .circle3, .circle4, .circle5, .circle6, .circle7, .circle8, .circle9, .circle10  {
+//     background-color: rgb(0, 0, 0);
+//     width: 50px;
+//     height: 50px;
+//     border-radius: 50%;
+//     position: relative;
+//     animation-name: circle1;
+//     animation-duration: 1s;
+//     animation-timing-function: linear;
+//     animation-iteration-count: infinite;
+//     animation-direction: alternate;
+// }
+// @keyframes circle1{
+//     0%{
+//         top: 0px;
+//     }
+
+//     100%{
+//         top: 450px;
+//     }
+// }
+
+// .footer{
+//     display: flex;
+//     justify-content: space-between;
+//     background-color: rgb(178, 219, 223);
+//     width: 1000px;
+//     height: 50px;
+//     border: 5px solid black;
+//     border-top:0px ;
+// }
+// .shadow1,.shadow2,.shadow3,.shadow4,.shadow5,.shadow6,.shadow7,.shadow8,.shadow9,.shadow10{
+//     background-color: rgb(3, 2, 2, );
+//     width: 1px;
+//     height: 1px;
+//     border: 1px solid rgb(185, 182, 182);
+//     border-radius: 50%;
+//     position: relative;
+//     margin-left: 10px;
+//     animation-name: shadow1;
+//     animation-duration: 1s;
+//     animation-timing-function: linear;
+//     animation-iteration-count: infinite;
+//     animation-direction: alternate;
+
+// }
+// @keyframes shadow1{
+//     0%{
+//         width: 1px;
+//         height: 1px;
+//         margin-left: 10px;
+//         background-color: rgba(1,1,1,0.10);
+
+//     }
+//     100%{
+//         width: 50px;
+//         height: 15px;
+//         margin-left: 0;
+//         background-color: rgba(1,1,1,0.3);
+
+//     }
+// }
+
+// .circle2 {
+// }
+// .circle3 {
+// }
+// .circle4 {
+// }
+// .circle5 {
+// }
+// .circle6 {
+// }
